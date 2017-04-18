@@ -1,0 +1,27 @@
+{
+  "name": "simple-file-rotator",
+  "version": "1.0.0",
+  "description": "A simple file rotator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zelgadis87/zelgadis87-file-rotator.git"
+  },
+  "keywords": [
+    "log",
+    "log-rotator",
+    "log4js"
+  ],
+  "author": "Zelgadis87",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zelgadis87/zelgadis87-file-rotator/issues"
+  },
+  "homepage": "https://github.com/Zelgadis87/zelgadis87-file-rotator#readme",
+  "devDependencies": {
+    "eslint": "^3.19.0"
+  }
+}
