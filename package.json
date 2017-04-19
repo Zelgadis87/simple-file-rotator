@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Zelgadis87/zelgadis87-file-rotator.git"
+    "url": "git+https://github.com/Zelgadis87/simple-file-rotator.git"
   },
   "keywords": [
     "log",
@@ -18,9 +18,9 @@
   "author": "Zelgadis87",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Zelgadis87/zelgadis87-file-rotator/issues"
+    "url": "https://github.com/Zelgadis87/simple-file-rotator/issues"
   },
-  "homepage": "https://github.com/Zelgadis87/zelgadis87-file-rotator#readme",
+  "homepage": "https://github.com/Zelgadis87/simple-file-rotator#readme",
   "devDependencies": {
     "eslint": "^3.19.0"
   }
