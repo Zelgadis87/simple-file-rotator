@@ -1,6 +1,6 @@
 {
   "name": "simple-file-rotator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple file rotator.",
   "main": "index.js",
   "scripts": {
