@@ -17,7 +17,7 @@ Everytime it is called, it will rotate the given filename once.
 In more detail:
 - It will permanently delete `filename.N`
 - It will rename `filename.I` to `filename.(I+1)`, for `0 <= I < N`
-- It will rename `filename` to `filename.0`.
+- It will rename `filename` to `filename.0`.   
 If any of the files are missing, they will be skipped.
 
 This is mostly useful for rotating log files, where it is handy to keep a certain number of logs available on the filesystem.  
